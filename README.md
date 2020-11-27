@@ -8,7 +8,7 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:a.ortizg@uniandes.edu.co)
 
 I'm a passionate software engineering student at <br> Universidad de los Andes. 🇨🇴 </br>
-<img width="50%" align="right" alt="Go Gators!" src="https://media.giphy.com/media/MaNu5veVbWkEovTurC/giphy-downsized.gif" />
+<img width="48%" align="right" alt="Go Gators!" src="https://media.giphy.com/media/MaNu5veVbWkEovTurC/giphy-downsized.gif" />
 
 
 - 👨🏽‍💻 I’m currently working on [Booklick](https://github.com/aortiz49/ISIS2503-202020-S3-SCRUMDogs-Booklick)
@@ -21,12 +21,12 @@ I'm a passionate software engineering student at <br> Universidad de los Andes. 
 - Go Gators 🐊
 
 <p>
-   <img width="50%" align="right" alt="Andy's github stats" src="https://github-readme-stats.vercel.app/api?username=aortiz49&count_private=true&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=radical" />
-  <img width="50%" align="right" alt="Andy's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aortiz49&layout=compact&theme=radical&hide=batchfile&hide_border=true" />
+   <img width="48%" align="right" alt="Andy's github stats" src="https://github-readme-stats.vercel.app/api?username=aortiz49&count_private=true&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=radical" />
+  <img width="48%" align="right" alt="Andy's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aortiz49&layout=compact&theme=radical&hide=batchfile&hide_border=true" />
  </p>
  
 <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/aortiz49/.github/main/.resources/mycoffee.png?token=AA4G6TTC6PKCYPBL2LBHT7S7ZLB5G"/>
+      <img width="22%" align="center" alt="Buy me a coffee" src="https://raw.githubusercontent.com/aortiz49/.github/main/.resources/mycoffee.png?token=AA4G6TTC6PKCYPBL2LBHT7S7ZLB5G"/>
   </a>
  
 <!--- [](https://visitor-badge.glitch.me/badge?page_id=aortiz49.aortiz49) --->
