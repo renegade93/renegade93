@@ -25,7 +25,7 @@ I'm a passionate software engineering student at <br> Universidad de los Andes. 
   <img width="48%" align="right" alt="Andy's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aortiz49&layout=compact&theme=radical&hide=batchfile&hide_border=true" />
  </p>
  
-<a href="https://www.buymeacoffee.com/onimur" target="_blank">
+<a href="https://www.buymeacoffee.com/aortiz49" target="_blank">
       <img width="22%" align="center" alt="Buy me a coffee" src="https://raw.githubusercontent.com/aortiz49/.github/main/.resources/mycoffee.png?token=AA4G6TTC6PKCYPBL2LBHT7S7ZLB5G"/>
   </a>
  
