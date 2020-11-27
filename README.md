@@ -14,7 +14,7 @@ I'm a passionate software engineering student at <br> Universidad de los Andes. 
 - 👨🏽‍💻 I’m currently working on [Booklick](https://github.com/aortiz49/ISIS2503-202020-S3-SCRUMDogs-Booklick)
 - 🌱 I’m currently learning Design Patterns and Software Architecture
 - 👯 I’m looking to collaborate on a CI/CD pipeline with Jenkins 🤝  
-- 🤔 I’m looking for help with Flask/Angular Integration 😭
+- 🤔 I’m looking for help with Flask/Angular Integration 
 - 💬 Ask me [anything](https://github.com/aortiz49/aortiz49/issues/1)
 - ⚡️ Fun-Fact: I have a degree in electrical engineering and I am learning Japanese 🇯🇵
 - 📫 How to reach me: a.ortizg@uniandes.edu.co
