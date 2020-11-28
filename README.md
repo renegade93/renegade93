@@ -17,6 +17,7 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student at <br> U
 - 🤔 I’m looking for help with Flask/Angular Integration 
 - 💬 Ask me [anything](https://github.com/aortiz49/aortiz49/issues/1)
 - ⚡️ Fun-Fact: I have a degree in electrical engineering and I am learning Japanese 🇯🇵
+- 🎮 Find me on lichess [aortiz49](https://lichess.org/@/aortiz49) (still a n00b)
 - 📫 How to reach me: a.ortizg@uniandes.edu.co
 - Go Gators 🐊
 
