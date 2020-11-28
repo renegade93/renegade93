@@ -21,6 +21,8 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student at <br> U
 - 🎻 I'm currently working on [Concerto No. 5 in A major, Mozart](https://www.youtube.com/watch?v=FfXSJu4z-2M)
 - 📫 How to reach me: a.ortizg@uniandes.edu.co
 - Go Gators 🐊
+<br> </br>
+- PGP Public Key: [`4140 96D2 0525 CEBB`](https://keybase.io/andyortiz49/pgp_keys.asc)
 
 <p>
    <img width="48%" align="right" alt="Andy's github stats" src="https://github-readme-stats.vercel.app/api?username=aortiz49&count_private=true&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=radical" />
