@@ -18,7 +18,7 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student at <br> U
 - 💬 Ask me [anything](https://github.com/aortiz49/aortiz49/issues/1)
 - ⚡️ Fun-Fact: I have a degree in electrical engineering and I am learning Japanese 🇯🇵
 - 🎮 Find me on lichess [aortiz49](https://lichess.org/@/aortiz49) (still a n00b)
-- 🎻 I'm currently working on: [Concerto No. 5 in A major, Mozart](https://www.youtube.com/watch?v=FfXSJu4z-2M)
+- 🎻 I'm currently working on [Concerto No. 5 in A major, Mozart](https://www.youtube.com/watch?v=FfXSJu4z-2M)
 - 📫 How to reach me: a.ortizg@uniandes.edu.co
 - Go Gators 🐊
 
