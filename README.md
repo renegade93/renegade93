@@ -25,10 +25,15 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student at <br> U
   </p>
   <img width="48%" align="right" alt="Andy's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aortiz49&layout=compact&theme=radical&hide=batchfile&hide_border=true" />
  </p>
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=125208069&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=125208069&redirect=true)
+<!--- [](https://visitor-badge.glitch.me/badge?page_id=aortiz49.aortiz49) --->
  
+ ### Support me
+  <p align="center">
 <a href="https://www.buymeacoffee.com/aortiz49" target="_blank">
       <img width="22%" align="center" alt="Buy me a coffee" src="https://raw.githubusercontent.com/aortiz49/.github/main/.resources/mycoffee.png?token=AA4G6TTC6PKCYPBL2LBHT7S7ZLB5G"/>
-  </a>
- 
-<!--- [](https://visitor-badge.glitch.me/badge?page_id=aortiz49.aortiz49) --->
+  </a></p>
+
+
  
