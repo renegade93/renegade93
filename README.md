@@ -29,7 +29,6 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student at <br> U
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=125208069&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=125208069&redirect=true)
 <!--- [](https://visitor-badge.glitch.me/badge?page_id=aortiz49.aortiz49) --->
  
- ### Support me
   <p align="center">
 <a href="https://www.buymeacoffee.com/aortiz49" target="_blank">
       <img width="22%" align="center" alt="Buy me a coffee" src="https://raw.githubusercontent.com/aortiz49/.github/main/.resources/mycoffee.png?token=AA4G6TTC6PKCYPBL2LBHT7S7ZLB5G"/>
