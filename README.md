@@ -35,7 +35,7 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student at <br> U
  ------
   <p align="center">
 <a href="https://www.buymeacoffee.com/aortiz49" target="_blank">
-      <img width="22%" align="center" alt="Buy me a coffee" src="https://raw.githubusercontent.com/aortiz49/.github/main/.resources/mycoffee.png?token=AA4G6TTC6PKCYPBL2LBHT7S7ZLB5G"/>
+      <img width="22%" align="center" alt="Buy me a coffee" src="https://raw.githubusercontent.com/aortiz49/aortiz49/master/buymecoffee.png"/>
   </a></p>
 
 
