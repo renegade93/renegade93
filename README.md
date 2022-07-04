@@ -25,7 +25,7 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student from <br>
 <p>
    <img width="48%" align="right" alt="Andy's github stats" src="https://github-readme-stats.vercel.app/api?username=aortiz49&count_private=true&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=radical" />
   </p>
-  <img width="48%" align="right" alt="Andy's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aortiz49&layout=compact&theme=radical&hide=batchfile,html,css&hide_border=true" />
+ 
  </p>
 
 
