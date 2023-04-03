@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/aortiz49/aortiz49/master/readme_banner.png "Header")](https://andyortiz.xyz/)
  
- ## こんいちは。
+ ## 頑張って。
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aortiz49)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aortiz49/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/andyortiz93/)
