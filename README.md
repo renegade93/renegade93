@@ -22,12 +22,6 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student from <br>
 - Go Gators 🐊
 - PGP Public Key: [`4140 96D2 0525 CEBB`](https://keybase.io/andyortiz49/pgp_keys.asc) hit me up guys! 
 
-<p>
-   <img width="48%" align="right" alt="Andy's github stats" src="https://github-readme-stats.vercel.app/api?username=aortiz49&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" align="right" alt="Andy's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aortiz49&count_private=true&layout=compact&theme=radical&hide=batchfile,html,css&hide_border=true&count_private=true" />
-  </p>
- 
- </p>
 
 
 
