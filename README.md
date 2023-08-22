@@ -11,13 +11,10 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student from <br>
 <img width="48%" align="right" alt="Go Gators!" src="https://media.giphy.com/media/MaNu5veVbWkEovTurC/giphy-downsized.gif" />
 
 
-- 👨🏽‍💻 I’m currently working on a Spotify app integrating Google's Natural Language API. 
-- 👯 I’m looking to collaborate on a CI/CD pipeline with Jenkins 🤝  
-- 🤔 I’m looking for help with Natural Language Processing.  
 - 💬 Ask me [anything](https://github.com/aortiz49/aortiz49/issues/1)
 - ⚡️ Fun-Fact: I enjoy designing autonomous robots and I am learning Japanese 🇯🇵
 - 🎮 Find me on lichess [aortiz49](https://lichess.org/@/aortiz49) (still a n00b)
-- 🎻 I'm currently working on [Concerto No. 5 in A major, Mozart](https://www.youtube.com/watch?v=FfXSJu4z-2M)
+- 🎻 I'm currently practicing [Concerto No. 5 in A major, Mozart](https://www.youtube.com/watch?v=FfXSJu4z-2M)
 - 📫 How to reach me: a.ortizg@uniandes.edu.co
 - Go Gators 🐊
 - PGP Public Key: [`4140 96D2 0525 CEBB`](https://keybase.io/andyortiz49/pgp_keys.asc) hit me up guys! 
