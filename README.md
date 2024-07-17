@@ -19,6 +19,9 @@ I'm Andy - AKA renegade. I'm a passionate software engineering student from <br>
 - Go Gators 🐊
 - PGP Public Key: [`4140 96D2 0525 CEBB`](https://keybase.io/andyortiz49/pgp_keys.asc) hit me up guys! 
 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=125208069&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--- [](https://visitor-badge.glitch.me/badge?page_id=aortiz49.aortiz49) --->
  ![](https://komarev.com/ghpvc/?username=aortiz49&style=plastic&color=orange)
  ------
