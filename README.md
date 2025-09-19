@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a.ortizg93@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:a.ortizg@uniandes.edu.co)
 
-I'm Andy - AKA renegade. I'm a passionate software engineering student from <br> Universidad de los Andes(🇨🇴) and Universidad Carlos III de Madrid(🇪🇸). </br>
+Yo, I'm Andy. I'm a passionate software engineering student from <br> Universidad de los Andes(🇨🇴) and Universidad Carlos III de Madrid(🇪🇸). </br>
 <img width="48%" align="right" alt="Go Gators!" src="https://media.giphy.com/media/MaNu5veVbWkEovTurC/giphy-downsized.gif" />
 
 
