@@ -74,16 +74,6 @@ I care about:
 
 </div>
 
-## Support
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/aortiz49" target="_blank">
-  <img width="22%" align="center" alt="Buy me a coffee" src="https://raw.githubusercontent.com/aortiz49/aortiz49/master/buymecoffee.png"/>
-</a>
-</p>
-
-<div align="center">
-
 *If you’re here because of code — welcome.*  
 *If you’re here because something broke — same.*
 
