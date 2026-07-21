@@ -31,7 +31,7 @@ I trust logs more than people.
 <div align="center">
 
 ### 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=125208069&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=125208069&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
